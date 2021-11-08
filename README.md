@@ -1,3 +1,4 @@
+
 # expertzrepo
 
 -Ansel says that this is the file which we will opt for a pull request
@@ -6,4 +7,6 @@
 -This is an eg for pull request dated 8/9/21
 -This is an eg for fork updation
 -This is a pull request check
+this is a pull req by ashok
+
 
