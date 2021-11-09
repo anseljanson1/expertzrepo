@@ -8,9 +8,6 @@
 -This is an eg for fork updation
 -This is a pull request check
 -this is a pull request given on 8-11-21
--this is a pull req by ashok
-
-
-
+-this is a pull req given on 9/11/2021
 
 
